@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'specimen';
+    src: url(https://fonts.google.com/specimen/Montserrat);
+}
+
+*{
+    font-family: 'specimen';
+    
+}
